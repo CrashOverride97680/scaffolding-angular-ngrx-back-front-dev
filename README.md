@@ -13,4 +13,4 @@ For runnig:
 - `npm run i`
 - `npm run start`
 
-The fist time only npm run i, tutte le altre npm run start. With this command run a json server on http://localhost:3000 and Angular http://localhost:4200.
+The fist time only npm run i, all the others npm run start. With this command run a json server on http://localhost:3000 and Angular http://localhost:4200.
