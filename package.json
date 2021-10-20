@@ -1,0 +1,22 @@
+{
+  "name": "scaffolding-angular-ngrx-back-front-dev",
+  "version": "1.0.0",
+  "description": "Scaffolding with Angular, RxJS, NgRx, JSON Server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrashOverride97680/scaffolding-angular-ngrx-back-front-dev.git"
+  },
+  "author": "Fabrizio Manna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrashOverride97680/scaffolding-angular-ngrx-back-front-dev/issues"
+  },
+  "homepage": "https://github.com/CrashOverride97680/scaffolding-angular-ngrx-back-front-dev#readme",
+  "dependencies": {
+    "concurrently": "^6.3.0",
+    "json-server": "^0.17.0"
+  }
+}
