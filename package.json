@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Scaffolding with Angular, RxJS, NgRx, JSON Server",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "install": "cd angular-front && npm run install",
+    "start": "concurrently \"json-server --watch json-server/db.json\" \"cd angular-front && npm run start\""
   },
   "repository": {
     "type": "git",
